@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+*{
+	padding:0px;
+	margin:0px;
+	text-decoration:none;
+}
+ol{
+	display:flex;
+	justify-content:flex-end;
+	background:black;
+	padding:40px 10px;
+}
+li{
+	display:block;
+	padding:10px 20px;
+	color:white;
+}
+li a{
+	color:inherit;
+	text-decoration : None ;
+}
+
+li:hover{
+	background:white;
+	color:black;
+}
+
